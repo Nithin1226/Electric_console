@@ -22,6 +22,13 @@ This project is designed to forecast electricity consumption using historical da
 - **Machine Learning Algorithm**: Random Forest Regressor
 - **Deployment Interface**: Streamlit Web App
 
----
+## To Run
+
+```bash
+python main.py
+
+streamlit run streamlit_app.py
+
+```
 
 
